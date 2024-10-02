@@ -1,0 +1,71 @@
+._d5 {
+    background-image: url(https://tb-static.uber.com/prod/bliss-helpdot/asset/images/landing-page-index.jpeg);
+}
+._d4 {
+    background-size: cover;
+}
+._d3 {
+    background-position: center;
+}
+
+._d2 {
+    min-height: 75vh;
+}
+._cf {
+    background-repeat: no-repeat;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    margin: 0;
+    background-color: #FFFFFF;
+    color: #000000;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+
+/* UberSupport.css */
+.uber-support {
+    background-image: url('/background.jpg'); /* Adjust the path as necessary */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh; /* Ensure it covers the full viewport height */
+  }
+  
+  .header {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .nav {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: black;
+  }
+  
+  .nav a svg {
+    display: block;
+    margin: 0 auto;
+    width: 28px;
+    height: 28px;
+  }
+  
+  .nav a div {
+    margin-top: 10px;
+  }
+  
